@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>grouping tags</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: cadetblue;
+        }
+        header/* cabeçalho */{
+            background-color: aliceblue;
+            padding: 10px;
+            margin: 10px;
+        }
+        h1 {
+            box-shadow: inset 3px 1px 20px 1px #00000029;
+        }
+        nav/*navegação*/{
+            background-color: rgb(181, 139, 120);
+            padding: 3px;
+            box-shadow: 2px 4px 9px rgba(0, 0, 0, 0.491);
+
+        }
+        nav > a {
+             text-decoration: none;
+             color: aliceblue;
+             font-weight: bold;
+             margin: 5px;
+        }
+        nav > a:hover {
+            text-decoration: underline;
+        }
+        main /*principal*/{
+            background-color: aliceblue;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 0px 37px;
+            box-shadow: 8px 4px 15px #0000004a;/*sobre a ferramenta no dev tools tbm não foi colocado no pdf. 
+            aqui ele ensina de um jeito mais ja foi atualizado e  agr e de outro jeito no dev tools, temos que escrever o box-shadow e colocar os valores e no dev tools tem a ferramenta antes dos valores!*/
+        }
+         article /*artigo*/{
+            background-color: rgb(217, 215, 196);
+            
+        }
+        article > aside /*artigo de lado*/ {
+            background-color: rgb(188, 186, 162);
+        }
+        footer /*rodapé*/{
+            background-color: black;
+            color: aliceblue;
+            text-align: center;
+            padding: 4px;
+            margin: 0px;
+        }
+        footer > p {
+            margin: 0px;
+        } 
+        div#bola {
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            background-color: aliceblue;
+            border-radius: 50%;/*<-- isso não foi colocado no pdf*/
+        }
+    </style>
+</head>
+<body>
+  <header>
+    <h1>Meu site</h1>
+    <nav>
+        <a href="#">link</a>
+        <a href="#">link</a>
+        <a href="#">link</a>
+        <a href="#">link</a>
+        <a href="#">link</a>
+    </nav>
+  </header>
+  <main>
+        <section id="assuntos">
+            <p>Esportes Politica Tecnologia</p>
+        </section>
+        <section id="noticias">
+            <article>
+                    <h2>Notícias sobre o Brasil</h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, sit porro, nulla quidem magni obcaecati error deserunt officiis corporis fuga soluta accusamus recusandae dolore esse et voluptatum? Laudantium, illo enim?</p>
+                    <aside>
+                        <p>Artigo escrito por josé da Silva</p>
+                    </aside>
+            </article>
+            <article> 
+
+            </article>
+        </section>
+  </main>
+  <footer>
+    <p>Desenvolvido pelo Cursoemvideo</p>
+  </footer>
+  <div id="bola">
+
+  </div>
+</body>
+</html>
