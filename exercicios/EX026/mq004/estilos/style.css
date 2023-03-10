@@ -24,7 +24,7 @@ body {
 
 main {
     background-color: #ffffffb6;
-    width: 80vw;
+    width: 60vw;
     margin: auto;
     margin-top: 20px;
     border-radius: 10px;
@@ -41,21 +41,10 @@ h1 {
 
 img {
     display: block;
-    margin: auto;
-}
+    margin: auto;}
 
-img#phone {
-    display: block;
-}
-img#tablet {
-    display: none;
-}
-img#print {
-    display: none;
-}
-img#pc {
-    display: none;
-}
-img#tv {
-    display: none;
-}
+img#phone {display: block;}
+img#tablet {display: none;}
+img#print {display: none;}
+img#pc {display: none;}
+img#tv {display: none;}
