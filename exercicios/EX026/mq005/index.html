@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midia Query</title>
+    <link rel="stylesheet" href="estilos/style.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Meu Site</h1>
+        <span id="burguer" class="material-icons" onclick="clickmenu()">menu</span>
+        <menu id="itens">
+            <ul>
+                <li><a href="#">opção 1</a></li>
+                <li><a href="#">opção 2</a></li>
+                <li><a href="#">opção 3</a></li>
+                <li><a href="#">opção 4</a></li>
+                <li><a href="#">opção 5</a></li>
+            </ul>
+        </menu>
+    </header>
+    <main>
+        <article>
+            <h2>O que são Media Queries?</h2>
+
+            <p>Media queries são uma técnica do CSS que permite adaptar a aparência de um site com base nas características do dispositivo em que ele é exibido. Com as consultas de mídia, você pode definir regras de estilo específicas para diferentes tamanhos de tela, orientações e densidades de pixel. </p>
+
+            <h2>Por que usar Media Queries? </h2>
+
+            <p>Usar media queries é essencial para criar sites responsivos. Com o uso crescente de dispositivos móveis para acessar a internet, é importante garantir que seu site seja exibido corretamente em todos os tipos de dispositivos e tamanhos de tela. <br>
+
+                Ao usar media queries, você pode criar um layout flexível que se adapta automaticamente às dimensões da tela do dispositivo. Isso permite que o conteúdo do seu site seja exibido de forma legível e clara em qualquer dispositivo, desde um desktop até um smartphone.</p>
+
+            <h2>Como usar Media Queries?</h2>
+
+            <p>Para usar media queries, você precisa definir uma regra de estilo condicional que será aplicada quando uma determinada condição for atendida. A sintaxe básica de uma media query é a seguinte: <br>
+
+                @media screen and (max-width: 600px) { /* estilos para dispositivos com largura de tela máxima de 600px */ } <br>
+                
+                Aqui, a regra de estilo só será aplicada em dispositivos com largura de tela máxima de 600px. Você pode usar outras condições, como orientação de tela, densidade de pixel e até mesmo recursos de mídia, como presença ou ausência de um dispositivo de impressão, para definir suas regras de consulta de mídia.</p>
+                <h2>Dicas para usar Media Queries</h2>
+
+                <p>Aqui estão algumas dicas para usar media queries em seus projetos de site: <br>
+
+                <ul>
+                    <li>Pense primeiro no design para dispositivos móveis: em vez de começar com um design de desktop e tentar adaptá-lo para dispositivos móveis, comece com um design para dispositivos móveis e depois trabalhe em uma versão desktop.</li>
+
+                    <li>Use breakpoints estratégicos: identifique pontos críticos no layout do seu site onde a aparência precisa mudar para se adaptar às diferentes telas. Use breakpoints específicos para definir suas regras de media query para esses pontos</li>
+
+                    <li>Teste em vários dispositivos: certifique-se de testar seu site em vários dispositivos para garantir que ele funcione corretamente em todos os tipos de tela.</li>
+                </ul>
+
+                </p>
+
+                <h2>Conclusão</h2>
+
+                <p>
+                    As media queries são uma ferramenta essencial para criar sites responsivos que se adaptam a diferentes tamanhos e tipos de tela. Ao usar consultas de mídia em seus projetos de site, você pode garantir que seu conteúdo seja exibido corretamente em qualquer dispositivo, tornando a experiência do usuário mais agradável e eficaz. Espero que este artigo tenha sido útil para você começar a trabalhar com media queries.  
+                </p>
+        </article>
+    </main>
+    
+    <script>
+        function clickmenu(){
+           if ( itens.style.display == 'block'){
+                itens.style.display = 'none'
+           }
+           else {
+            itens.style.display = 'block'
+           }
+        }
+    </script>
+</body>
+</html>
