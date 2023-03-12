@@ -77,3 +77,10 @@ article > p  {
     margin-bottom: 10px;
     text-indent: 10px;
 }
+
+ul {
+    list-style-position: inside;
+    list-style-type: decimal;
+    padding-left: 20px;
+    font-style: oblique;
+}
