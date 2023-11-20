@@ -4,7 +4,7 @@
 
 Este é um curso online e gratuito de HTML5 e CSS3, as principais linguagens para criar sites na web. O curso é ministrado pelo professor Gustavo Guanabara, um dos maiores nomes da educação em tecnologia no Brasil. O curso tem como objetivo ensinar os fundamentos e as novidades do HTML5 e do CSS3, bem como mostrar como criar projetos completos e responsivos usando essas tecnologias.
 
-## Conteúdo
+## 📄 Conteúdo
 
 O curso é dividido em cinco módulos. Cada módulo aborda um aspecto diferente do desenvolvimento web, desde a história da internet até a incorporação de áudio e vídeo.
 
