@@ -20,15 +20,40 @@ Ao longo do curso, o professor Gustavo propõe vários desafios e exercícios pa
 
 Aqui estão algumas imagens de ilustração de alguns dos meus projetos:
 
-![Cordel Moderno](https://mariana549.github.io/cordel-moderno/)
+[Cordel Moderno](https://mariana549.github.io/cordel-moderno/)
+- computador 
+![Cordel Moderno](/capturas/desktopCaptura%20de%20tela%202023-11-20%20143033.png)
+- 2 imagem de computador
+![Cordel Moderno](/capturas/desktop2Captura%20de%20tela%202023-11-20%20143025.png)
+-Telefone <br>
+![Cordel Moderno](/capturas/telefoneCaptura%20de%20tela%202023-11-20%20143054.png)
 
+---
 
-![Projeto Login](https://mariana549.github.io/projeto-login/)
+[Projeto Login](https://mariana549.github.io/projeto-login/)
+- computador 
+![projeto login](/capturas/computador-projeto-login.png)
+- ipad
+![projeto login](/capturas/ipad-projeto-login-Captura%20de%20tela%202023-11-20%20134243.png)
+-Telefone <br>
+![projeto login](/capturas/telefone-projeto-login-Captura%20de%20tela%202023-11-20%20134259.png)
 
+----
 
-![Projeto Android](https://mariana549.github.io/projeto-android/)
+[Projeto Android](https://mariana549.github.io/projeto-android/)
+- computador 
+![projeto android](/capturas/computador-projeto-android.png)
+- ipad
+![projeto android](/capturas/ipad-projeto-android.png)
+-Telefone <br>
+![projeto android](/capturas/telefone-projeto-android.png)
 
+---
 
-![Projeto Redes Sociais](https://mariana549.github.io/projeto-redes-sociais/)
-
-
+[Projeto Redes Sociais](https://mariana549.github.io/projeto-redes-sociais/)
+- computador 
+![projeto redes sociais]()
+- ipad
+![projeto redes sociais]()
+-Telefone <br>
+![projeto redes sociais]()
