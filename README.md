@@ -52,8 +52,7 @@ Aqui estão algumas imagens de ilustração de alguns dos meus projetos:
 #### Projeto Redes sociais
 [Projeto Redes Sociais](https://mariana549.github.io/projeto-redes-sociais/)
 - computador 
-![projeto redes sociais]()
-- ipad
-![projeto redes sociais]()
+![projeto redes sociais](capturas/desktop-projeto-redes-sociais.png)
+
 -Telefone <br>
-![projeto redes sociais]()
+![projeto redes sociais](capturas/telefone-projeto-redes-sociais.png)
