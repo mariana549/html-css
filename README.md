@@ -19,7 +19,7 @@ Ao longo do curso, o professor Gustavo propõe vários desafios e exercícios pa
 - Projeto Redes Sociais: um site que mostra as principais redes sociais da atualidade, com informações, imagens, ícones e links.
 
 Aqui estão algumas imagens de ilustração de alguns dos meus projetos:
-
+#### cordel moderno
 [Cordel Moderno](https://mariana549.github.io/cordel-moderno/)
 - computador 
 ![Cordel Moderno](/capturas/desktopCaptura%20de%20tela%202023-11-20%20143033.png)
@@ -29,7 +29,7 @@ Aqui estão algumas imagens de ilustração de alguns dos meus projetos:
 ![Cordel Moderno](/capturas/telefoneCaptura%20de%20tela%202023-11-20%20143054.png)
 
 ---
-
+#### Projeto login
 [Projeto Login](https://mariana549.github.io/projeto-login/)
 - computador 
 ![projeto login](/capturas/computador-projeto-login.png)
@@ -39,7 +39,7 @@ Aqui estão algumas imagens de ilustração de alguns dos meus projetos:
 ![projeto login](/capturas/telefone-projeto-login-Captura%20de%20tela%202023-11-20%20134259.png)
 
 ----
-
+#### Projeto Android
 [Projeto Android](https://mariana549.github.io/projeto-android/)
 - computador 
 ![projeto android](/capturas/computador-projeto-android.png)
@@ -49,7 +49,7 @@ Aqui estão algumas imagens de ilustração de alguns dos meus projetos:
 ![projeto android](/capturas/telefone-projeto-android.png)
 
 ---
-
+#### Projeto Redes sociais
 [Projeto Redes Sociais](https://mariana549.github.io/projeto-redes-sociais/)
 - computador 
 ![projeto redes sociais]()
